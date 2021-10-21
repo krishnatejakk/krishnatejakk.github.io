@@ -9,12 +9,4 @@ location: "Dallas, USA"
 ---
 
 I assisted Prof. Karen Mazidi with the undergraduate course "Introduction to Machine Learning" course during the spring 2020 semester at the University of Texas at Dallas.
-<!-- 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-====== -->
