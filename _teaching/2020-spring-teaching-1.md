@@ -4,7 +4,7 @@ collection: teaching
 type: "CS4375 - Introduction to Machine Learning course"
 permalink: /teaching/2020-spring-teaching-1
 venue: "University of Texas at Dallas, Department of Computer Science"
-date: 2020-15-01
+date: 2020-01-15
 location: "Dallas, USA"
 ---
 
