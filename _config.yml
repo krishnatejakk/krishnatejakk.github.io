@@ -302,6 +302,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+gems: ['jekyll/scholar']
 scholar:
   style: apa
   locale: en
