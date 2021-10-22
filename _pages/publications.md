@@ -7,17 +7,17 @@ author_profile: true
 
 For a complete list of my publications, please visit my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&tzom=300&user=Es7o_GIAAAAJ).
 
-&ast; indicates equal contribution
+\* indicates equal contribution
   
 ## Pre-Prints
 -------------
 Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **"GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning".** (Under review at AAAI 22)
 
-Ayush Maheshwari&ast;, Krishnateja Killamsetty&ast;, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** arXiv [cs.LG], 2021. arXiv:2109.11410.
+Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** arXiv [cs.LG], 2021. arXiv:2109.11410.
 
-Xujiang Zhao&ast;, Killamsetty Krishnateja&ast;, Rishabh Iyer, Feng Chen. **[“Robust Semi-Supervised Learning with Out of Distribution Data”](http://arxiv.org/abs/2010.03658).** arXiv [cs.LG], 2021. arXiv:2010.03658.
+Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“Robust Semi-Supervised Learning with Out of Distribution Data”](http://arxiv.org/abs/2010.03658).** arXiv [cs.LG], 2021. arXiv:2010.03658.
 
-Krishnateja Killamsetty&ast;, Changbin Li&ast;, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Reweighted Meta Learning Framework for Robust Few Shot Learning”](http://arxiv.org/abs/2011.06782).** arXiv [cs.LG], 2020. arXiv:2011.06782.
+Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Reweighted Meta Learning Framework for Robust Few Shot Learning”](http://arxiv.org/abs/2011.06782).** arXiv [cs.LG], 2020. arXiv:2011.06782.
 
 ## Peer-Reviewed Publications (Conferences & Journals)
 ------------------------------------------------------
