@@ -1,10 +1,8 @@
 ---
+layout: archive
 permalink: /publications/
 title: "Publications"
 author_profile: true
-redirect_from: 
-  - /publications
-  - /publications.html
 ---
 
 For a complete list of my publications, please visit my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&tzom=300&user=Es7o_GIAAAAJ).
