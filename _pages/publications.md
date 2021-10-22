@@ -6,6 +6,7 @@ redirect_from:
   - /pub/
   - /publications.html
 ---
+
 For a complete list of my publications, please visit my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&tzom=300&user=Es7o_GIAAAAJ).
 
 \* indicates equal contribution
