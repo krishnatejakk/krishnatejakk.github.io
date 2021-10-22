@@ -266,6 +266,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-scholar
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -302,7 +303,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-gems: ['jekyll/scholar']
+
 scholar:
   style: apa
   locale: en
