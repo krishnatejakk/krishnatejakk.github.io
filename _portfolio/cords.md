@@ -1,7 +1,7 @@
 ---
 title: "CORDS Toolkit"
 excerpt: "COReset and Data Selection library 1<br/><img src='/images/cords_logo.png'>"
-collection: portfolio
+collection: software
 ---
 
 Please find the github link for CORDS repo [here](https://github.com/decile-team/cords).
