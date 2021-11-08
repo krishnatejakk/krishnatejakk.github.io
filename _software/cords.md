@@ -1,6 +1,6 @@
 ---
 title: "<img src='/images/cords_logo.png'> </br> CORDS - COReset and Data Selection"
-permalink: /software/cords
+#permalink: /software/cords
 collection: software
 ---
 
