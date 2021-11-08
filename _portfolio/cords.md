@@ -1,6 +1,6 @@
 ---
 title: "CORDS Toolkit"
-excerpt: "COReset and Data Selection library 1<br/><img src='/images/cords_logo.png'>"
+excerpt: "COReset and Data Selection library <br/><img src='/images/cords_logo.png'>"
 collection: software
 ---
 
