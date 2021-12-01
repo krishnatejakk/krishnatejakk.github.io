@@ -11,21 +11,19 @@ For a complete list of my publications, please visit my [Google Scholar Profile]
   
 ## Pre-Prints
 -------------
-Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **"GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning".** (Under review at AAAI 22)
+Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **[“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210).** arXiv [cs.LG], 2021. arXiv:2111.11210.
 
 Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** arXiv [cs.LG], 2021. arXiv:2109.11410.
 
 Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“Robust Semi-Supervised Learning with Out of Distribution Data”](http://arxiv.org/abs/2010.03658).** arXiv [cs.LG], 2021. arXiv:2010.03658.
 
-Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Reweighted Meta Learning Framework for Robust Few Shot Learning”](http://arxiv.org/abs/2011.06782).** arXiv [cs.LG], 2020. arXiv:2011.06782.
-
 ## Peer-Reviewed Publications (Conferences & Journals)
 ------------------------------------------------------
-Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[A Nested Bi-level Optimization Framework for Robust Few Shot Learning](https://arxiv.org/abs/2011.06782)**, To Appear in In Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
+Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Nested Bi-level Optimization Framework for Robust Few Shot Learning”](https://arxiv.org/abs/2011.06782)**, To Appear in In Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
 
-Krishnateja Killamsetty, Xujiang Zhou, Feng Chen, and Rishabh Iyer, **[RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning](https://arxiv.org/abs/2106.07760)**, To Appear In Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
+Krishnateja Killamsetty, Xujiang Zhou, Feng Chen, and Rishabh Iyer, **[“RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning”](https://arxiv.org/abs/2106.07760)**, To Appear In Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
 
-Suraj Kothawade, Nathan Beck, Krishnateja Killamsetty, Rishabh Iyer, **[SIMILAR: Submodular Information Measures Based Active Learning In Realistic Scenarios](https://arxiv.org/abs/2107.00717)**, To Appear In Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
+Suraj Kothawade, Nathan Beck, Krishnateja Killamsetty, Rishabh Iyer, **[“SIMILAR: Submodular Information Measures Based Active Learning In Realistic Scenarios”](https://arxiv.org/abs/2107.00717)**, To Appear In Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
 
 Ayush Maheshwari, Oishik Chatterjee, Krishnateja Killamsetty, Ganesh Ramakrishnan, Rishabh Iyer.**[“Semi-Supervised Data Programming with Subset Selection”](https://doi.org/10.18653/v1/2021.findings-acl.408).** In Findings of the Association for Computational Linguistics: ACL/IJCNLP 2021, Online Event, August 1-6, 2021, ACL/IJCNLP 2021:4640–4651. Findings of ACL. Association for Computational Linguistics, 2021. (Long paper)
 
@@ -47,8 +45,8 @@ Krishnateja Killamsetty, Dheeraj N Bhat, Rishabh Iyer. **[“CORDS: COResets and
 
 ## Workshop Papers
 ------------------
-Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[A Nested Bi-level Optimization Framework for Robust Few Shot Learning]().** Fifth Workshop on Meta-Learning at the Conference on Neural Information Processing Systems, In Conjunction with NeurIPS 2021
+Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Nested Bi-level Optimization Framework for Robust Few Shot Learning”]().** Fifth Workshop on Meta-Learning at the Conference on Neural Information Processing Systems, In Conjunction with NeurIPS 2021
 
-Savan Amitbhai Visalpara, Krishnateja Killamsetty, Rishabh Iyer. **["A Data Subset Selection Framework for Efficient Hyper-Parameter Tuning and Automatic Machine Learning"](https://krishnatejakillamsetty.me/files/Hyperparam_SubsetML.pdf).** Workshop on Subset Selection in Machine Learning, SubSetML 2021, In Conjunction with ICML 2021
+Savan Amitbhai Visalpara, Krishnateja Killamsetty, Rishabh Iyer. **[“A Data Subset Selection Framework for Efficient Hyper-Parameter Tuning and Automatic Machine Learning”](https://krishnatejakillamsetty.me/files/Hyperparam_SubsetML.pdf).** Workshop on Subset Selection in Machine Learning, SubSetML 2021, In Conjunction with ICML 2021
 
-Krishnateja Killamsetty, Durga Sivasubramanian, Baharan Mirzasoleiman, Ganesh Ramakrishnan, Abir De, Rishabh Iyer. **["A Gradient Matching Framework for Efficient Learning"](https://krishnatejakillamsetty.me/files/GradMatch_ICLR_workshop.pdf).** Workshop on Hardware Aware Efficient Training, In Conjunction with ICLR 2021
+Krishnateja Killamsetty, Durga Sivasubramanian, Baharan Mirzasoleiman, Ganesh Ramakrishnan, Abir De, Rishabh Iyer. **[“A Gradient Matching Framework for Efficient Learning”](https://krishnatejakillamsetty.me/files/GradMatch_ICLR_workshop.pdf).** Workshop on Hardware Aware Efficient Training, In Conjunction with ICLR 2021
