@@ -18,6 +18,6 @@ The purpose of our research is to develop next-generation techniques for develop
 4. Development of fair machine learning techniques to reduce the chance of discriminatory effects and unfairness resulting from machine learning models.
 
 ## Data Efficient Machine Learning
-{% for post in site.efficient_projects reversed %}
+{% for post in site.dataefficientprojects reversed %}
   {% include archive-single.html %}
 {% endfor %}
