@@ -315,6 +315,7 @@ scholar:
   details_layout: bibtex.html
   details_link:   Details
   query: "@*" 
+  bibliography_list_tag: 'ul'
 
 # HTML Compression
 # - http://jch.penibelst.de/
