@@ -305,7 +305,7 @@ tag_archive:
 #     tag: /tags/:name/
 
 scholar:
-  style: apa
+  style: ieee
   locale: en
   sort_by: none
   order: ascending
