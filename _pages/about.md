@@ -16,23 +16,23 @@ For more details on my research, please check my [research](/research) page. For
 
 News
 ---------
-- Our paper named **A Nested Bi-level Optimization Framework for Robust Few Shot Learning** got **accepted at AAAI 2022!** 
+- Our paper **A Nested Bi-level Optimization Framework for Robust Few Shot Learning** got **accepted at AAAI 2022!** 
 
 - Served as Programme Committee member for AAAI 2022
 
-- Our paper named **RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning** got **accepted at NeurIPS 2021!**
+- Our paper **RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning** got **accepted at NeurIPS 2021!**
 
 - Served as Programme Committee member for NeurIPS 2021 
 
 - Excited to release **CORDS**  ([Github](https://github.com/decile-team/cords)), a PyTorch-based open-source efficient deep model training and autoML library! 
 
-- Our paper named **GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training** got **accepted to ICML 2021!** 
+- Our paper **GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training** got **accepted to ICML 2021!** 
 
-- Our paper named got **Semi-Supervised Data Programming with Subset Selection** got **accepted at Findings of ACL 2021!** 
+- Our paper **Semi-Supervised Data Programming with Subset Selection** got **accepted at Findings of ACL 2021!** 
 
 - Served as Programme Committe member for AISTATS 2021
 
-- Our paper named **GLISTER: Generalization based Data Subset Selection for Efficient and Robust Learning** got **accepted to AAAI 2021!**
+- Our paper **GLISTER: Generalization based Data Subset Selection for Efficient and Robust Learning** got **accepted to AAAI 2021!**
 
 - Served as Programme Committe member for AAAI 2021
 
