@@ -14,6 +14,8 @@ My research centers on developing techniques and algorithms that enable data-eff
 
 For more details on my research, please check my [research](/research) page. For details on my publications, please check my [publications](/publications) page.
 
+{% include section.html dark=true%}
+
 News
 ---------
 - Our paper **"A Nested Bi-level Optimization Framework for Robust Few Shot Learning"** got **accepted at AAAI 2022!** 
@@ -38,10 +40,13 @@ News
 
 - Served as Programme Committe member for AAAI 2021
 
+{% include section.html %}
+
 References
 ----------
 {% bibliography --cited %}
 
+{% include section.html %}
 <a class="twitter-timeline"  data-width="400" data-height="400" href="https://twitter.com/krishnatejakk?ref_src=twsrc%5Etfw">Tweets by krishnatejakk</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 <a href="https://twitter.com/krishnatejakk?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @krishnatejakk</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
