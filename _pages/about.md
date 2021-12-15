@@ -15,6 +15,13 @@ My research centers on developing techniques and algorithms that enable data-eff
 For more details on my research, please check my [research](/research) page. For details on my publications, please check my [publications](/publications) page.
 
 
+News
+---------
+<a class="twitter-timeline"  data-width="400" data-height="400" href="https://twitter.com/krishnatejakk?ref_src=twsrc%5Etfw">Tweets by krishnatejakk</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
+<a href="https://twitter.com/krishnatejakk?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @krishnatejakk</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=krishnatejakk&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @caraml_lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
 References
 ----------
 {% bibliography --cited %}
