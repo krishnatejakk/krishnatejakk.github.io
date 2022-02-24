@@ -17,7 +17,7 @@ Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“Robust
 
 ## Peer-Reviewed Publications (Conferences & Journals)
 ------------------------------------------------------
-Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** To Appear in In Findings of the Association for Computational Linguistics: ACL/IJCNLP 2022. Findings of ACL. Association for Computational Linguistics, 2021. (Long paper)
+Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** To Appear in In Findings of the Association for Computational Linguistics: ACL/IJCNLP 2022. Findings of ACL. Association for Computational Linguistics, 2022. (Long paper)
 
 Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Nested Bi-level Optimization Framework for Robust Few Shot Learning”](https://arxiv.org/abs/2011.06782)**, To Appear in In Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
 
