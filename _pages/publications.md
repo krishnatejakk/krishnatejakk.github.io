@@ -17,7 +17,7 @@ Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“Robust
 
 ## Peer-Reviewed Publications (Conferences & Journals)
 ------------------------------------------------------
-Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** To Appear in In Findings of the Association for Computational Linguistics: ACL/IJCNLP 2022. Findings of ACL. Association for Computational Linguistics, 2022. (Long paper)
+Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410).** To Appear in Findings of the Association for Computational Linguistics: ACL 2022. (Long paper)
 
 Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Nested Bi-level Optimization Framework for Robust Few Shot Learning”](https://arxiv.org/abs/2011.06782)**, To Appear in In Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
 
@@ -25,7 +25,7 @@ Krishnateja Killamsetty, Xujiang Zhou, Feng Chen, and Rishabh Iyer, **[“RETRIE
 
 Suraj Kothawade, Nathan Beck, Krishnateja Killamsetty, Rishabh Iyer, **[“SIMILAR: Submodular Information Measures Based Active Learning In Realistic Scenarios”](https://arxiv.org/abs/2107.00717)**, To Appear In Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
 
-Ayush Maheshwari, Oishik Chatterjee, Krishnateja Killamsetty, Ganesh Ramakrishnan, Rishabh Iyer.**[“Semi-Supervised Data Programming with Subset Selection”](https://doi.org/10.18653/v1/2021.findings-acl.408).** In Findings of the Association for Computational Linguistics: ACL/IJCNLP 2021, Online Event, August 1-6, 2021, ACL/IJCNLP 2021:4640–4651. Findings of ACL. Association for Computational Linguistics, 2021. (Long paper)
+Ayush Maheshwari, Oishik Chatterjee, Krishnateja Killamsetty, Ganesh Ramakrishnan, Rishabh Iyer.**[“Semi-Supervised Data Programming with Subset Selection”](https://doi.org/10.18653/v1/2021.findings-acl.408).** In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, 4640–4651. doi:10.18653/v1/2021.findings-acl.408. (Long paper)
 
 Krishnateja Killamsetty, Durga Sivasubramanian, Ganesh Ramakrishnan, Abir De, Rishabh Iyer. **[“GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training”](http://proceedings.mlr.press/v139/killamsetty21a.html).** In Proceedings of the 38th International Conference on Machine Learning, ICML 2021, 18-24 July 2021, Virtual Event, 139:5464–5474. Proceedings of Machine Learning Research. PMLR, 2021. (21% acceptance rate)
 
