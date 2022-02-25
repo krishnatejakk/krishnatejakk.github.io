@@ -18,6 +18,8 @@ For more details on my research, please check my [research](/research) page. For
 
 News
 ---------
+- Our paper **"Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming"** got **accepted at Findings of ACL 2022!**
+
 - Our paper **"A Nested Bi-level Optimization Framework for Robust Few Shot Learning"** got **accepted at AAAI 2022!** 
 
 - Served as Programme Committee member for AAAI 2022
@@ -30,7 +32,7 @@ News
 
 - Excited to release **CORDS**  ([Github](https://github.com/decile-team/cords)), a PyTorch-based open-source efficient deep model training and autoML library! 
 
-- Our paper **"GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training"** got **accepted to ICML 2021!** 
+- Our paper **"GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training"** got **accepted at ICML 2021!** 
 
 - Our paper **"Semi-Supervised Data Programming with Subset Selection"** got **accepted at Findings of ACL 2021!** 
 
