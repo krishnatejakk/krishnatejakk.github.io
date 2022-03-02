@@ -11,12 +11,12 @@ For a complete list of my publications, please visit my [Google Scholar Profile]
   
 ## Pre-Prints
 -------------
-Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, [“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210). arXiv [cs.LG], 2021. arXiv:2111.11210.
-
 Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. [“Robust Semi-Supervised Learning with Out of Distribution Data”](http://arxiv.org/abs/2010.03658). arXiv [cs.LG], 2021. arXiv:2010.03658.
 
 ## Peer-Reviewed Publications (Conferences & Journals)
 ------------------------------------------------------
+Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, [“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210). To Appear in Conference on Computer Vision and Pattern Recognition, CVPR 2022.
+
 Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. [“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410). To Appear in Findings of the Association for Computational Linguistics: ACL 2022. (Long paper)
 
 Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. [“A Nested Bi-level Optimization Framework for Robust Few Shot Learning”](https://arxiv.org/abs/2011.06782). To Appear in Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
