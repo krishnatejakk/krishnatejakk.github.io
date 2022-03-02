@@ -18,27 +18,29 @@ For more details on my research, please check my [research](/research) page. For
 
 News
 ---------
-- Our paper **"Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming"** got **accepted at Findings of ACL 2022!**
+- Our paper **[“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210)** got **accepted at CVPR 2022!**
 
-- Our paper **"A Nested Bi-level Optimization Framework for Robust Few Shot Learning"** got **accepted at AAAI 2022!** 
+- Our paper **["Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming"](https://arxiv.org/abs/2109.11410)** got **accepted at Findings of ACL 2022!**
+
+- Our paper **["A Nested Bi-level Optimization Framework for Robust Few Shot Learning"](https://arxiv.org/abs/2011.06782)** got **accepted at AAAI 2022!** 
 
 - Served as Programme Committee member for AAAI 2022
 
-- Our paper **"RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning"** got **accepted at NeurIPS 2021!**
+- Our paper **["RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning"](https://papers.nips.cc/paper/2021/hash/793bc52a941b3951dfdb85fb04f9fd06-Abstract.html)** got **accepted at NeurIPS 2021!**
 
-- Our paper **"SIMILAR: Submodular Information Measures Based Active Learning In Realistic Scenarios"** got **accepted at NeurIPS 2021!** 
+- Our paper **["SIMILAR: Submodular Information Measures Based Active Learning In Realistic Scenarios"](https://proceedings.neurips.cc/paper/2021/hash/9af08cda54faea9adf40a201794183cf-Abstract.html)** got **accepted at NeurIPS 2021!** 
 
 - Served as Programme Committee member for NeurIPS 2021 
 
 - Excited to release **CORDS**  ([Github](https://github.com/decile-team/cords)), a PyTorch-based open-source efficient deep model training and autoML library! 
 
-- Our paper **"GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training"** got **accepted at ICML 2021!** 
+- Our paper **["GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training"](http://proceedings.mlr.press/v139/killamsetty21a.html)** got **accepted at ICML 2021!** 
 
-- Our paper **"Semi-Supervised Data Programming with Subset Selection"** got **accepted at Findings of ACL 2021!** 
+- Our paper **["Semi-Supervised Data Programming with Subset Selection"](https://aclanthology.org/2021.findings-acl.408/)** got **accepted at Findings of ACL 2021!** 
 
 - Served as Programme Committe member for AISTATS 2021
 
-- Our paper **"GLISTER: Generalization based Data Subset Selection for Efficient and Robust Learning"** got **accepted to AAAI 2021!**
+- Our paper **["GLISTER: Generalization based Data Subset Selection for Efficient and Robust Learning"](https://ojs.aaai.org/index.php/AAAI/article/view/16988)** got **accepted to AAAI 2021!**
 
 - Served as Programme Committe member for AAAI 2021
 
