@@ -11,6 +11,8 @@ For a complete list of my publications, please visit my **[Google Scholar Profil
   
 ## Pre-Prints
 -------------
+Krishnateja Killamsetty, Guttu Sai Abhishek, Aakriti, Alexandre V. Evfimievski, Lucian Popa, Ganesh Ramakrishnan, Rishabh Iyer,  **["AUTOMATA: Gradient Based Data Subset Selection for Compute-Efficient Hyper-parameter Tuning"]**(http://arxiv.org/abs/2203:08212). arXiv [cs.LG], 2022. arXiv:2203:08212.
+
 Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“Robust Semi-Supervised Learning with Out of Distribution Data”](http://arxiv.org/abs/2010.03658)**. arXiv [cs.LG], 2021. arXiv:2010.03658.
 
 ## Peer-Reviewed Publications (Conferences & Journals)
