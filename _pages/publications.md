@@ -13,10 +13,10 @@ For a complete list of my publications, please visit my **[Google Scholar Profil
 -------------
 Krishnateja Killamsetty, Guttu Sai Abhishek, Aakriti, Alexandre V. Evfimievski, Lucian Popa, Ganesh Ramakrishnan, Rishabh Iyer,  **["AUTOMATA: Gradient Based Data Subset Selection for Compute-Efficient Hyper-parameter Tuning"](https://arxiv.org/abs/2203.08212)**. arXiv [cs.LG], 2022. arXiv:2203:08212.
 
-Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“Robust Semi-Supervised Learning with Out of Distribution Data”](http://arxiv.org/abs/2010.03658)**. arXiv [cs.LG], 2021. arXiv:2010.03658.
-
 ## Peer-Reviewed Publications (Conferences & Journals)
 ------------------------------------------------------
+Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“Robust Semi-Supervised Learning with Out of Distribution Data”](http://arxiv.org/abs/2010.03658)**. To Appear in International Conference on Data Mining, ICDM 2022.
+
 Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **[“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210)**. To Appear in Conference on Computer Vision and Pattern Recognition, CVPR 2022.
 
 Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410)**. To Appear in Findings of the Association for Computational Linguistics: ACL 2022. (Long paper)
