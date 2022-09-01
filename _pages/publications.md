@@ -15,7 +15,7 @@ Krishnateja Killamsetty, Guttu Sai Abhishek, Aakriti, Alexandre V. Evfimievski, 
 
 ## Peer-Reviewed Publications (Conferences & Journals)
 ------------------------------------------------------
-Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“Robust Semi-Supervised Learning with Out of Distribution Data”](http://arxiv.org/abs/2010.03658)**. To Appear in International Conference on Data Mining, ICDM 2022.
+Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“Robust Semi-Supervised Learning with Out of Distribution Data”](http://arxiv.org/abs/2010.03658)**. To Appear in IEEE International Conference on Data Mining, ICDM 2022.
 
 Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **[“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210)**. To Appear in Conference on Computer Vision and Pattern Recognition, CVPR 2022.
 
