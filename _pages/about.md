@@ -18,6 +18,8 @@ For more details on my research, please check my [research](/research) page. For
 
 News
 ---------
+- Our paper **[“How Out of Distribution Data Hurts Semi-Supervised Learning”](https://arxiv.org/abs/2010.03658)** got **accepted at ICDM 2022!** 
+ 
 - Our paper **[“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210)** got **accepted at CVPR 2022!**
 
 - Our paper **["Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming"](https://arxiv.org/abs/2109.11410)** got **accepted at Findings of ACL 2022!**
