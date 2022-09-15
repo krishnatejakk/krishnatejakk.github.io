@@ -14,20 +14,21 @@ For a complete list of my publications, please visit my **[Google Scholar Profil
 
 ## Peer-Reviewed Publications (Conferences & Journals)
 ------------------------------------------------------
-Krishnateja Killamsetty, Guttu Sai Abhishek, Aakriti, Alexandre V. Evfimievski, Lucian Popa, Ganesh Ramakrishnan, Rishabh Iyer,  **["AUTOMATA: Gradient Based Data Subset Selection for Compute-Efficient Hyper-parameter Tuning"](https://arxiv.org/abs/2203.08212)**. To Appear in Neural Information Processing Systems, NeurIPS 2022. (25.6% Acceptance Rate)
+Krishnateja Killamsetty, Guttu Sai Abhishek, Aakriti, Alexandre V. Evfimievski, Lucian Popa, Ganesh Ramakrishnan, Rishabh Iyer,  **["AUTOMATA: Gradient Based Data Subset Selection for Compute-Efficient Hyper-parameter Tuning"](https://arxiv.org/abs/2203.08212)**. In Neural Information Processing Systems, NeurIPS 2022. (25.6% Acceptance Rate)
 
+Athresh Karanam\*, Krishnateja Killamsetty\*, Harsha Kokel\*, Rishabh K Iyer, **["Orient: Submodular Mutual Information Measures for Data Subset Selection under Distribution Shift"]()**. In Neural Information Processing Systems, NeurIPS 2022.
 
-Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“How Out of Distribution Data Hurts Semi-Supervised Learning"](http://arxiv.org/abs/2010.03658)**. To Appear in IEEE International Conference on Data Mining, ICDM 2022. (9% Acceptance Rate)
+Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“How Out of Distribution Data Hurts Semi-Supervised Learning"](http://arxiv.org/abs/2010.03658)**. In IEEE International Conference on Data Mining, ICDM 2022. (9% Acceptance Rate)
 
-Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **[“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210)**. To Appear in Conference on Computer Vision and Pattern Recognition, CVPR 2022.
+Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **[“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210)**. In Conference on Computer Vision and Pattern Recognition, CVPR 2022.
 
-Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410)**. To Appear in Findings of the Association for Computational Linguistics: ACL 2022. (Long paper)
+Ayush Maheshwari\*, Krishnateja Killamsetty\*, Ganesh Ramakrishnan, Rishabh Iyer, Marina Danilevsky, Lucian Popa. **[“Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming”](http://arxiv.org/abs/2109.11410)**. In Findings of the Association for Computational Linguistics: ACL 2022. (Long paper)
 
-Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Nested Bi-level Optimization Framework for Robust Few Shot Learning”](https://arxiv.org/abs/2011.06782)**. To Appear in Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
+Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Nested Bi-level Optimization Framework for Robust Few Shot Learning”](https://arxiv.org/abs/2011.06782)**. In Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022. (15% Acceptance Rate)
 
-Krishnateja Killamsetty, Xujiang Zhou, Feng Chen, and Rishabh Iyer, **[“RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning”](https://arxiv.org/abs/2106.07760)**. To Appear in Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
+Krishnateja Killamsetty, Xujiang Zhou, Feng Chen, and Rishabh Iyer, **[“RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning”](https://arxiv.org/abs/2106.07760)**. In Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
 
-Suraj Kothawade, Nathan Beck, Krishnateja Killamsetty, Rishabh Iyer, **[“SIMILAR: Submodular Information Measures Based Active Learning In Realistic Scenarios”](https://arxiv.org/abs/2107.00717)**. To Appear in Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
+Suraj Kothawade, Nathan Beck, Krishnateja Killamsetty, Rishabh Iyer, **[“SIMILAR: Submodular Information Measures Based Active Learning In Realistic Scenarios”](https://arxiv.org/abs/2107.00717)**. In Neural Information Processing Systems, NeurIPS 2021. (26% Acceptance Rate)
 
 Ayush Maheshwari, Oishik Chatterjee, Krishnateja Killamsetty, Ganesh Ramakrishnan, Rishabh Iyer.**[“Semi-Supervised Data Programming with Subset Selection”](https://doi.org/10.18653/v1/2021.findings-acl.408)**. In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, 4640–4651. doi:10.18653/v1/2021.findings-acl.408. (Long paper)
 
