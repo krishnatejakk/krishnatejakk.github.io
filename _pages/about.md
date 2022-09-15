@@ -18,6 +18,8 @@ For more details on my research, please check my [research](/research) page. For
 
 News
 ---------
+- Our paper **["Orient: Submodular Mutual Information Measures for Data Subset Selection under Distribution Shift"]()** got **accepted at NeurIPS 2022!"**
+
 - Our paper **["AUTOMATA: Gradient Based Data Subset Selection for Compute-Efficient Hyper-parameter Tuning"](https://arxiv.org/abs/2203.08212)** got **accepted at NeurIPS 2022!"**
 
 - Our paper **[“How Out of Distribution Data Hurts Semi-Supervised Learning”](https://arxiv.org/abs/2010.03658)** got **accepted at ICDM 2022!** 
