@@ -11,10 +11,12 @@ For a complete list of my publications, please visit my **[Google Scholar Profil
   
 ## Pre-Prints
 -------------
-Krishnateja Killamsetty, Guttu Sai Abhishek, Aakriti, Alexandre V. Evfimievski, Lucian Popa, Ganesh Ramakrishnan, Rishabh Iyer,  **["AUTOMATA: Gradient Based Data Subset Selection for Compute-Efficient Hyper-parameter Tuning"](https://arxiv.org/abs/2203.08212)**. arXiv [cs.LG], 2022. arXiv:2203:08212.
 
 ## Peer-Reviewed Publications (Conferences & Journals)
 ------------------------------------------------------
+Krishnateja Killamsetty, Guttu Sai Abhishek, Aakriti, Alexandre V. Evfimievski, Lucian Popa, Ganesh Ramakrishnan, Rishabh Iyer,  **["AUTOMATA: Gradient Based Data Subset Selection for Compute-Efficient Hyper-parameter Tuning"](https://arxiv.org/abs/2203.08212)**. To Appear in Neural Information Processing Systems, NeurIPS 2022. (25.6% Acceptance Rate)
+
+
 Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“How Out of Distribution Data Hurts Semi-Supervised Learning"](http://arxiv.org/abs/2010.03658)**. To Appear in IEEE International Conference on Data Mining, ICDM 2022. (9% Acceptance Rate)
 
 Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy, **[“GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning”](https://arxiv.org/abs/2111.11210)**. To Appear in Conference on Computer Vision and Pattern Recognition, CVPR 2022.
