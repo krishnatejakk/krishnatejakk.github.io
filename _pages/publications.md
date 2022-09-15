@@ -16,7 +16,7 @@ For a complete list of my publications, please visit my **[Google Scholar Profil
 ------------------------------------------------------
 Krishnateja Killamsetty, Guttu Sai Abhishek, Aakriti, Alexandre V. Evfimievski, Lucian Popa, Ganesh Ramakrishnan, Rishabh Iyer,  **["AUTOMATA: Gradient Based Data Subset Selection for Compute-Efficient Hyper-parameter Tuning"](https://arxiv.org/abs/2203.08212)**. In Neural Information Processing Systems, NeurIPS 2022. (25.6% Acceptance Rate)
 
-Athresh Karanam\*, Krishnateja Killamsetty\*, Harsha Kokel\*, Rishabh K Iyer, **["Orient: Submodular Mutual Information Measures for Data Subset Selection under Distribution Shift"]()**. In Neural Information Processing Systems, NeurIPS 2022.
+Athresh Karanam\*, Krishnateja Killamsetty\*, Harsha Kokel\*, Rishabh K Iyer, **["Orient: Submodular Mutual Information Measures for Data Subset Selection under Distribution Shift"]()**. In Neural Information Processing Systems, NeurIPS 2022. (25.6% Acceptance Rate)
 
 Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“How Out of Distribution Data Hurts Semi-Supervised Learning"](http://arxiv.org/abs/2010.03658)**. In IEEE International Conference on Data Mining, ICDM 2022. (9% Acceptance Rate)
 
