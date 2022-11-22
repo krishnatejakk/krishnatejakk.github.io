@@ -5,7 +5,7 @@ title: "Publications"
 author_profile: true
 ---
 
-For a complete list of my publications, please visit my **[Google Scholar Profile](https://scholar.google.com/citations?hl=en&tzom=300&user=Es7o_GIAAAAJ)**.
+For a complete list of my publications, please visit my **[Google Scholar Profile](https://scholar.google.com/citations?user=cHDE-2YAAAAJ)**.
 
 \* indicates equal contribution
   
