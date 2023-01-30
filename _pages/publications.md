@@ -11,6 +11,7 @@ For a complete list of my publications, please visit my **[Google Scholar Profil
   
 ## Pre-Prints
 -------------
+Krishnateja Killamsetty, Alexandre V. Evfimievski, Tejaswini Pedapati, Kiran Kate, Lucian Popa, Rishabh Iyer.  **["MILO: Model-Agnostic Subset Selection Framework for Efficient Model Training and Tuning"]()**. 
 
 ## Peer-Reviewed Publications (Conferences & Journals)
 ------------------------------------------------------
