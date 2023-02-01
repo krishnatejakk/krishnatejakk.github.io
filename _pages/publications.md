@@ -17,7 +17,7 @@ Krishnateja Killamsetty, Alexandre V. Evfimievski, Tejaswini Pedapati, Kiran Kat
 ------------------------------------------------------
 Krishnateja Killamsetty, Guttu Sai Abhishek, Aakriti, Alexandre V. Evfimievski, Lucian Popa, Ganesh Ramakrishnan, Rishabh Iyer.  **["AUTOMATA: Gradient Based Data Subset Selection for Compute-Efficient Hyper-parameter Tuning"](https://arxiv.org/abs/2203.08212)**. In Neural Information Processing Systems, NeurIPS 2022. (25.6% Acceptance Rate)
 
-Athresh Karanam\*, Krishnateja Killamsetty\*, Harsha Kokel\*, Rishabh K Iyer. **["Orient: Submodular Mutual Information Measures for Data Subset Selection under Distribution Shift"]()**. In Neural Information Processing Systems, NeurIPS 2022. (25.6% Acceptance Rate)
+Athresh Karanam\*, Krishnateja Killamsetty\*, Harsha Kokel\*, Rishabh K Iyer. **["Orient: Submodular Mutual Information Measures for Data Subset Selection under Distribution Shift"](https://openreview.net/forum?id=mhP6mHgrg1c)**. In Neural Information Processing Systems, NeurIPS 2022. (25.6% Acceptance Rate)
 
 Xujiang Zhao\*, Killamsetty Krishnateja\*, Rishabh Iyer, Feng Chen. **[“How Out of Distribution Data Hurts Semi-Supervised Learning"](http://arxiv.org/abs/2010.03658)**. In IEEE International Conference on Data Mining, ICDM 2022. (9% Acceptance Rate)
 
@@ -51,6 +51,8 @@ Krishnateja Killamsetty, Dheeraj N Bhat, Rishabh Iyer. **[“CORDS: COResets and
 
 ## Workshop Papers
 ------------------
+H S V N S Kowndinya Renduchintala, Krishnateja Killamsetty, Sumit Bhatia, Milan Aggarwal, Ganesh Ramakrishnan, Rishabh K Iyer, Balaji Krishnamurthy. **["Using Informative Data Subsets for Efficient Training of Large Language Models: An Initial Study"](https://neurips2022-enlsp.github.io/papers/paper_65.pdf)**. The Second Workshop on Efficient Natural Language and Speech Processing (ENLSP), In Conjunction with NeurIPS 2022.
+
 Krishnateja Killamsetty\*, Changbin Li\*, Chen Zhao, Rishabh Iyer, Feng Chen. **[“A Nested Bi-level Optimization Framework for Robust Few Shot Learning”](https://openreview.net/forum?id=OtokjoNoFu5)**. Fifth Workshop on Meta-Learning at the Conference on Neural Information Processing Systems, In Conjunction with NeurIPS 2021
 
 Savan Amitbhai Visalpara, Krishnateja Killamsetty, Rishabh Iyer. **[“A Data Subset Selection Framework for Efficient Hyper-Parameter Tuning and Automatic Machine Learning”](https://krishnatejakillamsetty.me/files/Hyperparam_SubsetML.pdf)**. Workshop on Subset Selection in Machine Learning, SubSetML 2021, In Conjunction with ICML 2021
