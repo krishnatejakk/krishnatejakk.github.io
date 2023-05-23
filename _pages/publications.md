@@ -51,7 +51,7 @@ Krishnateja Killamsetty, Dheeraj N Bhat, Rishabh Iyer. **[“CORDS: COResets and
 
 ## Workshop Papers
 ------------------
-Krishnateja Killamsetty, Alexandre Evfimievski, Tejaswani Pedapati, Kiran Kate, Lucian Popa, Rishabh K Iyer. **["MILO: Model-Agnostic Subset Selection Framework for Efficient Model Training and Tuning"](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_13.pdf)**. The 4th workshop of Practical ML for Developing Countries Workshop(PML4DC), In Conjunction with ICLR 2023 <span style="color:red">some **(ORAL)** text</span>
+Krishnateja Killamsetty, Alexandre Evfimievski, Tejaswani Pedapati, Kiran Kate, Lucian Popa, Rishabh K Iyer. **["MILO: Model-Agnostic Subset Selection Framework for Efficient Model Training and Tuning"](https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_13.pdf)**. The 4th workshop of Practical ML for Developing Countries Workshop(PML4DC), In Conjunction with ICLR 2023. <span style="color:red"> **(ORAL)** </span>
 
 H S V N S Kowndinya Renduchintala, Krishnateja Killamsetty, Sumit Bhatia, Milan Aggarwal, Ganesh Ramakrishnan, Rishabh K Iyer, Balaji Krishnamurthy. **[Using Informative Data Subsets for Efficient Training of Large Language Models: An Initial Study](https://neurips2022-enlsp.github.io/papers/paper_65.pdf)**. The 2nd workshop of Efficient Natural Language and Speech Processing (ENLSP), In Conjunction with NeurIPS 2022.
 
