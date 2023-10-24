@@ -15,6 +15,10 @@ Krishnateja Killamsetty, Alexandre V. Evfimievski, Tejaswini Pedapati, Kiran Kat
 
 ## Peer-Reviewed Publications (Conferences & Journals)
 ------------------------------------------------------
+Nathan Beck, Krishnateja Killamsetty, Suraj Kothawade, Rishabh Iyer. **[Beyond Active Learning: Leveraging the Full Potential of Human Interaction via Auto-Labeling, Human Correction, and Human Verification](https://arxiv.org/abs/2306.01277)**. In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024.
+
+H S V N S Kowndinya Renduchintala, Krishnateja Killamsetty, Sumit Bhatia, Milan Aggarwal, Ganesh Ramakrishnan, Rishabh K Iyer, Balaji Krishnamurthy. **["INGENIOUS: Using Informative Data Subsets for Efficient Training of Large Language Models"](https://arxiv.org/abs/2305.06677)**. In Findings of Empirical Methods in Natural Language Processing, 2024.
+
 Krishnateja Killamsetty, Guttu Sai Abhishek, Aakriti, Alexandre V. Evfimievski, Lucian Popa, Ganesh Ramakrishnan, Rishabh Iyer.  **["AUTOMATA: Gradient Based Data Subset Selection for Compute-Efficient Hyper-parameter Tuning"](https://arxiv.org/abs/2203.08212)**. In Neural Information Processing Systems, NeurIPS 2022. (25.6% Acceptance Rate)
 
 Athresh Karanam\*, Krishnateja Killamsetty\*, Harsha Kokel\*, Rishabh K Iyer. **["Orient: Submodular Mutual Information Measures for Data Subset Selection under Distribution Shift"](https://openreview.net/forum?id=mhP6mHgrg1c)**. In Neural Information Processing Systems, NeurIPS 2022. (25.6% Acceptance Rate)
