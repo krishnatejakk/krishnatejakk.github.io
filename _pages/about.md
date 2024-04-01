@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth year Ph.D. student, working in the [CARAML Lab](https://www.caraml-lab.com/) at the University of Texas at Dallas.  My Ph.D. advisor is [Dr. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home?authuser=0). Before this, I worked as a Data Scientist at Mercedes Benz Research and Development, India, from January 2018 - November 2020.
+Hi there! I'm Krishnateja Killamsetty, a passionate researcher in the field of machine learning and AI. I recently completed my Ph.D. from the University of Texas at Dallas, where I had the pleasure of working in the [CARAML Lab](https://www.caraml-lab.com/) under the guidance of [Dr. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home?authuser=0). It was an incredible journey filled with exciting challenges and opportunities to grow as a researcher.
 
-My research centers on developing techniques and algorithms that enable data-efficient, compute-efficient, and robust machine learning systems. I am interested in designing techniques that use the underlying data structure and analyze data samples' importance for model learning to achieve the earlier goals. My current work on data subset selection focuses on selecting small data subsets on which the machine learning models can be trained with negligible loss in accuracy on unseen datasets(generalization) while achieving 5X - 10X speedups/ energy savings/ CO2 emission savings. Another critical aspect of the data subset selection methods is that we can efficiently use them for training the models robustly when the dataset has noisy labels and class imbalance. I am also interested in designing techniques for label-efficient machine learning through the lens of active learning, semi-supervised learning, data programming, and labeling functions paradigms. My research directly applies to building machine learning systems that can efficiently learn from a prohibitively massive amount of data in a scalable and robust manner and brings us one step closer to achieving Green AI {% cite Schwartz2020GreenA %}.
+Now, I'm thrilled to be a Research Scientist at IBM Almaden Research Center, where I'm working on developing in-house conversational AI models for enterprise applications. My focus is on data subset selection and targeted synthetic data generation, aiming to make machine learning models more efficient and robust. I'm particularly excited about the potential of these techniques to achieve significant speedups, energy savings, and even reduced CO2 emissions.
 
-For more details on my research, please check my [research](/research) page. For details on my publications, please check my [publications](/publications) page.
+My research interests lie in developing techniques that analyze the importance of data samples and leverage the underlying data structure to achieve data-efficiency, compute-efficiency, and robustness. I'm also keen on building machine learning systems that can learn efficiently from massive amounts of data, even when the labels are noisy or the classes are imbalanced. It's a challenging but incredibly rewarding field of study.
+
+I'm always eager to collaborate and discuss ideas with fellow researchers and enthusiasts. If you're interested in learning more about my work, feel free to explore my [research](/research) and [publications](/publications) pages. I believe that by working together, we can push the boundaries of AI and make a positive impact on the world, one efficient algorithm at a time.
+
+Thank you for taking the time to get to know me a little better. I look forward to connecting with you and sharing more about my passion for machine learning and AI!
 
 {% include section.html dark=true%}
 
