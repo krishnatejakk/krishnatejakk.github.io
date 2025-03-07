@@ -1,14 +1,13 @@
 ```markdown
 ---
 permalink: /
-title: "About Me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 Hi there! I'm Krishnateja Killamsetty, a researcher and innovator in machine learning and AI with a passion for developing efficient, robust, and scalable systems. I earned my Ph.D. in Computer Science from The University of Texas at Dallas under the guidance of [Dr. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home?authuser=0) at the CARAML Lab—a transformative experience that honed my expertise in data subset selection and efficient learning algorithms.
 
 Today, I serve as a Staff Research Scientist and Product Team Lead at IBM Almaden Research Center. In this role, I lead cross-functional teams to design and deploy state-of-the-art conversational AI models for enterprise applications. My current research focuses on developing data-efficient techniques—such as advanced subset selection and targeted synthetic data generation—that drive significant speedups, reduce energy consumption, and pave the way for sustainable AI solutions. I’m particularly excited about leveraging these innovations to create intelligent systems that perform robustly even with limited or noisy data.
